@@ -1,5 +1,5 @@
 # 🌦️ Forecast_Dashboard_PowerBi  
-<img width="761" height="428" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/8fa2e4f3-290c-4e74-be96-01d5613aace7" />
+<img width="544" height="306" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/8fa2e4f3-290c-4e74-be96-01d5613aace7" />
 
 Welcome to **Forecast_Dashboard_PowerBi** – my interactive weather forecast dashboard built using **Power BI**!  
 This project combines data visualization, analytics, and design to make weather insights easy to understand and visually engaging.  
@@ -49,9 +49,7 @@ It gave me hands-on practice in Power BI and improved my confidence in presentin
 ---
 
 ## 📸 Sneak Peek  
-*(Insert a screenshot of your dashboard here!)*  
-
----
+<img width="1087" height="611" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/8fa2e4f3-290c-4e74-be96-01d5613aace7" />
 
 ## 🤝 Connect with Me  
 If you liked this project, let’s connect! I’m always open to feedback, collaboration, and new ideas.  
